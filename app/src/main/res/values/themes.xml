@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.A1Shorts" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/my_primary</item>
+    </style>
+
+    <style name="Theme.A1Shorts" parent="Base.Theme.A1Shorts" />
+
+    <style name="BottomNavigationView">
+        <item name="colorSecondaryContainer">@color/my_primary</item>
+    </style>
+</resources>
