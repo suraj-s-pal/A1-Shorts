@@ -19,7 +19,7 @@ https://github.com/suraj-s-pal/A1-News/assets/157046202/7cecb2e7-6dc4-4542-b334-
 - **Firestore Database**: For storing user data, video metadata, and user following relationships.
 - **Firebase Storage**: For storing uploaded videos.
 - **Android Studio**: IDE for Android app development.
-- **Java/Kotlin**: Programming languages used for Android development.
+- **Kotlin**: Programming languages used for Android development.
 
 ## Screenshots
 
